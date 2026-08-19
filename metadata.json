@@ -1,0 +1,7 @@
+{
+  "name": "NovaCorp Crisis Intelligence",
+  "description": "Unified cross-divisional crisis intelligence platform, forensic data analyzer, and executive turnaround command center for NovaCorp Industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
